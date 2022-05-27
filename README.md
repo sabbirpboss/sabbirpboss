@@ -4,12 +4,19 @@
 
 <hr/>
 
-- <h4>I am a</h4> 
-<h2 style="color:yellow;">Front-End(React) Developer</h2>
+ <h4>I am a</h4> 
+- <h2 style="color:yellow;">Front-End(React) Developer</h2>
 <h4>with a little bit of</h4>
-<h2 style="color:yellow;">Back-end(Node.js, Express.js, MongoDB) knowledge.</h2>
-<h4>Love to Learn New Skills.</h4>
++ <h2 style="color:yellow;">Back-end(Node.js, Express.js, MongoDB) knowledge.</h2>
+! <h4>Love to Learn New Skills.</h4>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <hr/>
 
 ## :mailbox: Reach me out
