@@ -8,7 +8,7 @@ I am a Front-End(React) Developer with a little bit of Back-end(Node.js, Express
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sabbir-ah/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/SAbbirAh99)
+[<p align="center"><img height="75" src="https://github.com/sabbirpboss/sabbirpboss/blob/main/assets/images/social/Linkedin.png">](https://www.linkedin.com/in/sabbir-ah/)[<img height="75" src="https://github.com/sabbirpboss/sabbirpboss/blob/main/assets/images/social/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/sabbirpboss/sabbirpboss/blob/main/assets/images/social/Twitter.png"> </p>](https://twitter.com/SAbbirAh99)
 
 <br />
 
