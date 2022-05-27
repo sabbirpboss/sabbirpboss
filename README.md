@@ -4,7 +4,7 @@
 
 <hr/>
 
-<h4>I am a</h4> 
+- <h4>I am a</h4> 
 <h2 style="color:yellow;">Front-End(React) Developer</h2>
 <h4>with a little bit of</h4>
 <h2 style="color:yellow;">Back-end(Node.js, Express.js, MongoDB) knowledge.</h2>
