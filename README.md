@@ -1,5 +1,5 @@
 # Hi there👋 this is SABBIR AHAMMED
-#### MERN Stack Developer || Love to Learn New Skills
+## MERN Stack Developer || Love to Learn New Skills
 ![MERN Stack Developer || Love to Learn New Skills](https://media-exp1.licdn.com/dms/image/C4E16AQEggh8KHanUuQ/profile-displaybackgroundimage-shrink_350_1400/0/1643146951091?e=1658966400&v=beta&t=rjUDk4q52dFB-H56tBxZvJWxyCzsBy7eIRg44X-hsZo)
 
 I am a Front-End(React) Developer with a little bit of Back-end(Node.js, Express.js, MongoDB) knowledge. Love to Learn New Skills.
@@ -20,6 +20,7 @@ Skills: REACT / JS / BOOTSTRAP / TAILWIND / HTML / CSS
 - 💬 Ask me about  REACT, JS, BOOTSTRAP, TAILWIND, CSS3, HTML5 
 - 📫 How to reach me: EMAILHERE@EMAIL.COM 
 
+<hr/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbirpboss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbir-ah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SAbbirAh99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19085197)  
 
