@@ -10,6 +10,8 @@
 <h2 style="color:yellow;">Back-end(Node.js, Express.js, MongoDB) knowledge.</h2>
 <h4>Love to Learn New Skills.</h4>
 
+<hr/>
+
 ## :mailbox: Reach me out
 
 <br />
