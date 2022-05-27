@@ -3,7 +3,7 @@
 ![MERN Stack Developer || Love to Learn New Skills](https://media-exp1.licdn.com/dms/image/C4E16AQEggh8KHanUuQ/profile-displaybackgroundimage-shrink_350_1400/0/1643146951091?e=1658966400&v=beta&t=rjUDk4q52dFB-H56tBxZvJWxyCzsBy7eIRg44X-hsZo)
 
 <h4>I am a</h4> 
-<h2>Front-End(React) Developer</h2>
+<h2 style="color": "red">Front-End(React) Developer</h2>
 <h4>with a little bit of</h4>
 <h2>Back-end(Node.js, Express.js, MongoDB) knowledge.</h2>
 <h4>Love to Learn New Skills.</h4>
